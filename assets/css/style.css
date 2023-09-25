@@ -80,7 +80,7 @@ div [class^="col-"]{
 .card-title {
   margin-top:0px;
   font-weight: 700;
-  font-size: 1.30em;
+  font-size: 1.00em;
   cursor:pointer;
 }
 .card-title a {
